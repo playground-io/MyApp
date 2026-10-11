@@ -1,4 +1,4 @@
-# MyApp starter
+# MyApp starter_
 
 A small, documented full-stack starting point for building an application with
 Vue, Nuxt UI, FastAPI, and SQLite. It includes a telemetry dashboard with
